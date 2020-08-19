@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is smple example.abcdef
+=======
+This is smple example.changes
+>>>>>>> d189969895f6c434ae5a8c78b2e9d57cb5db7522
